@@ -1,0 +1,9 @@
+secrets.txt
+venv/
+*.png
+log.html
+main.py
+output.xml
+report.html
+External Libraries/
+.idea/
